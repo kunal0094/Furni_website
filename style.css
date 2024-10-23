@@ -318,35 +318,13 @@ button {
 #p {
   font-size: 16px;
 }
-
-
-
- .testimonial-col:hover {
-  transform: translateY(-40px);
+.testimonial-col:hover {
+  transform: translateY(-20px);
 } 
 
 .four-1:hover {
-  transform: translateY(-40px);
+  transform: translateY(-20px);
 } 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 footer {
   background-color: #f5f5f5;
